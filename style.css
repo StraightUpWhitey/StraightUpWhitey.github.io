@@ -3,6 +3,13 @@ body {
 	background-color: #a9dbc4;
 }
 
+title {
+	border-style: ridge;
+    border-width: 3px;
+    border-left-width: 10px;
+    border-right-width: 10px;
+    border-color: #43C495;
+
 p {
 	color: turquoise;
 	background-color: #3d548a;
