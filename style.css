@@ -15,3 +15,18 @@ p {
 	background-color: #3d548a;
 	font-family: arial, helvetica, serif;
 }
+nav {
+	background-color: #00D0FF;
+
+}
+
+nav ul {
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+
+}
+nav li {
+	display: incline;
+
+}
