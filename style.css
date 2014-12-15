@@ -12,11 +12,11 @@ title {
 }
 p {
 	color: turquoise;
-	background-color: #3d548a;
+	background-image: url("Choose-One-FOr-Celebration.jpg");
 	font-family: arial, helvetica, serif;
 }
 nav {
-	background-image: url(3d-christmas-backgrounds-1.jpg);
+	background-image: url("3d-christmas-backgrounds-1.jpg");
 }
 nav a{
 	color: black;
@@ -30,5 +30,5 @@ nav ul {
 }
 nav li {
 	display: inline;
-	padding-right: 60px;
+	padding-right: 100px;
 }
