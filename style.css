@@ -9,7 +9,7 @@ title {
     border-left-width: 10px;
     border-right-width: 10px;
     border-color: black;
-
+}
 p {
 	color: turquoise;
 	background-color: #3d548a;
@@ -17,9 +17,11 @@ p {
 }
 nav {
 	background-color: #00D0FF;
-
 }
-
+nav a{
+	color: black;
+	text-decoration: none;
+}
 nav ul {
 	list-style-type: none;
 	padding: 0;
@@ -28,5 +30,4 @@ nav ul {
 }
 nav li {
 	display: incline;
-
 }
