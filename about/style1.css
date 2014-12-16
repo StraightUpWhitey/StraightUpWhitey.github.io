@@ -1,34 +1,4 @@
 body {
 	color: black;
-	background-image: url("images/treeee.jpg");
-}
-
-title {
-	border-style: ridge;
-    border-width: 3px;
-    border-left-width: 5x;
-    border-right-width: 10px;
-    border-color: black;
-}
-p {
-	color: #BD334C;
-	background-image: url("images/Merry-Christmas-christmas-32790291-1280-960.jpg");
-	font-family: arial, helvetica, serif;
-}
-nav {
-	background-image: url("images/3d-christmas-backgrounds-1.jpg");
-}
-nav a{
-	color: DarkBlue;
-	text-decoration: none;
-}
-nav ul {
-	list-style-type: none;
-	margin: 0;
-	padding: 0;
-
-}
-nav li {
-	display: inline;
-	padding-right: 100px;
+	background-image: url("images/nicebuck.jpg")
 }
