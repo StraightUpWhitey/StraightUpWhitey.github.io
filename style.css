@@ -11,7 +11,7 @@ title {
     border-color: black;
 }
 p {
-	color: #BD334C;
+	color: gold;
 	background-image: url("images/Merry-Christmas-christmas-32790291-1280-960.jpg");
 	font-family: arial, helvetica, serif;
 }
@@ -19,7 +19,7 @@ nav {
 	background-image: url("images/207326-bigthumbnail.jpg");
 }
 nav a{
-	color: gold;
+	color: blue;
 	text-decoration: none;
 }
 nav ul {
