@@ -9,6 +9,8 @@ title {
     border-left-width: 10px;
     border-right-width: 10px;
     border-color: black;
+	list-style-type: none;
+	text-decoration: none;
 }
 p {
 	color: black;
