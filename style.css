@@ -33,5 +33,10 @@ nav li {
 	padding-right: 100px;
 }
 "Picture of Walter Murray Collegiate"{
-	
+	border-style: dot;
+	border-width: 3px;
+    border-left-width: 10px;
+    border-right-width: 10px;
+    border-color: black;
+}
 	
