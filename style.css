@@ -30,16 +30,13 @@ nav ul {
 	padding: 0;
 
 }
+
 nav li {
 	display: inline;
 	padding-right: 100px;
 }
-"Picture of Walter Murray Collegiate"{
-	border-style: dot;
-	border-width: 3px;
-    border-left-width: 10px;
-    border-right-width: 10px;
-    border-color: black;
+shadow{
+	box-shadow: 20px 20px 8px  #2B1F1F;
 }
 nav{
     box-shadow: 10px 10px 5px #888888;
