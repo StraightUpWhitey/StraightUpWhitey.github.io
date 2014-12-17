@@ -31,16 +31,19 @@ nav ul {
 
 }
 
-.shadow2{
-	box-shadow: 25px 25px 10px  #63050B;
-}
-
 nav li {
 	display: inline;
 	padding-right: 100px;
 }
 .shadow{
 	box-shadow: 20px 20px 8px  #2B1F1F;
+}
+
+.shadow2{
+	box-shadow: 25px 25px 10px  #63050B;
+}
+.shadow4{
+	box-shadow: 25px 25px 10px  #5F7ABA;
 }
 nav{
     box-shadow: 10px 10px 5px #888888;
