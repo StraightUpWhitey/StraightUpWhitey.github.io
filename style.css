@@ -35,7 +35,7 @@ nav li {
 	display: inline;
 	padding-right: 100px;
 }
-shadow{
+.shadow{
 	box-shadow: 20px 20px 8px  #2B1F1F;
 }
 nav{
